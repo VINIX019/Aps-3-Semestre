@@ -1,0 +1,10 @@
+id;nome;categoria;preco;quantidade;idFornecedor
+1;Notebook Dell i5;Informatica;3499.9;15;1
+2;Mouse Logitech MX;Periferico;249.9;50;2
+3;Teclado Mecanico;Periferico;399.9;30;2
+4;Monitor 27 Full HD;Informatica;1299.0;20;1
+5;Cabo HDMI 2m;Acessorio;39.9;100;3
+6;SSD 480GB Kingston;Armazenamento;299.9;45;3
+7;Headset Gamer;Periferico;189.9;25;2
+8;Webcam Full HD;Periferico;219.9;18;1
+9;Monitor LG 24 polegadas;Informatica;650.9;3;2
