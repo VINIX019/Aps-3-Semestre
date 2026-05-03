@@ -2,23 +2,6 @@
 ## APS - UNIP 2026/1 | Ciência da Computação & Sistemas de Informação
 
 ---
-
-## Como compilar e executar
-
-### Pré-requisito: Java 11 ou superior instalado
-
-### 1. Compilar
-```
-javac -d bin src/*.java
-```
-
-### 2. Executar
-```
-java -cp bin Main
-```
-
----
-
 ## Estrutura do projeto
 
 ```
