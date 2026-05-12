@@ -15,7 +15,7 @@ public class Produto {
         this.idFornecedor = idFornecedor;
     }
 
-    // Getters
+
     public int getId() { return id; }
     public String getNome() { return nome; }
     public String getCategoria() { return categoria; }
@@ -23,7 +23,7 @@ public class Produto {
     public int getQuantidade() { return quantidade; }
     public int getIdFornecedor() { return idFornecedor; }
 
-    // Setters
+
     public void setNome(String nome) { this.nome = nome; }
     public void setCategoria(String categoria) { this.categoria = categoria; }
     public void setPreco(double preco) { this.preco = preco; }
